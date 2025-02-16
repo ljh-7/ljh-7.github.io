@@ -1,6 +1,6 @@
 title: Trustworthy LM
 
-show_excerpts: false
+show_excerpts: true
 sass:
   sass_dir: _sass
 
