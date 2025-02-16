@@ -4,16 +4,16 @@
 		<h1>{{ site.texture.title }}</h1>
 		<h2>{{ site.texture.tagline }}</h2>
 	</div>
-	<div style="margin-right: 100px">
+	<div style="margin-left: 500px">
 		<ul class="social">
 			{%- if site.texture.social_links.github -%}
 				<a href="https://github.com/{{ site.texture.social_links.github }}"><li><i class="icon-github-circled"></i></li></a>
 			{%- endif -%}
-			{%- if site.texture.social_links.linkedIn -%}
-				<a href="https://linkedin.com/{{ site.texture.social_links.linkedIn }}"><li><i class="icon-linkedin-squared"></i></li></a>
+			{%- if site.texture.social_links.google -%}
+				<a href="{{ site.texture.social_links.google }}"><li><i class="icon-google"></i></li></a>
 			{%- endif -%}
-			{%- if site.texture.social_links.twitter -%}
-				<a href="https://twitter.com/{{ site.texture.social_links.twitter }}"><li><i class="icon-twitter-squared"></i></li></a>
+			{%- if site.texture.social_links.e-mail -%}
+				<a href="{{ site.texture.social_links.e-mail }}"><li><i class="icon-mail"></i></li></a>
 			{%- endif -%}
 		</ul>
 	</div>
