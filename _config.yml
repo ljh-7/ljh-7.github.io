@@ -15,7 +15,7 @@ texture:
   social_links:
     github:  xingjunm
     google:  https://scholar.google.com.au/citations?user=XQViiyYAAAAJ&hl=en
-    e-mail:  xingjunma@fudan.edu.cn
+    e-mail:  http://xingjunma.com/
 
 plugins:
   - jekyll-seo-tag
