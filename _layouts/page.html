@@ -5,21 +5,23 @@
 </head>
 <body>
 	<header class="texture-{{ site.texture.style }}">
-		<div class="container">
-			{%- include nav.html -%}
-		</div>
+		<div style="margin-bottom: 60px; display: grid; grid-template-columns: 1fr 1fr;">
+        		<div>
+            			<p></p>
+        		</div>
+        		<div>
+            			<h2 style="font-family: 'Verdana', sans-serif; font-size: 28px; border: none;">Contact</h2>
+			            <p><b style="color: #4256b9; font-family: 'Verdana', sans-serif; font-size: 18px;">Address: </b>复旦大学江湾校区交叉学科二号楼D5025</p>
+			            <p><b style="color: #4256b9; font-family: 'Verdana', sans-serif; font-size: 18px;">Hours: </b>Thursday/Friday 13:00PM - 17:00PM</p>
+			            <p><b style="color: #4256b9; font-family: 'Verdana', sans-serif; font-size: 18px;">Email: </b>xingjunma@fudan.edu.cn</p>
+        		</div>
+    		</div>
 		{%- include page_header.html -%}
 	</header>
 	<main>
 		<div class="container">
 			{{ content }}
 		</div>
-		<div class="sidebar">
-	                <div class="profile">
-	                    <img src="/xingjunma.jpg" alt="Xingjun Ma" class="profile-image">
-	                    <p class="profile-description">你好，我是马兴军，这是一段关于我的简介。</p>
-	                </div>
-	        </div>
 	</main>
 	{%- include footer.html -%}
 </body>
