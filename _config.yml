@@ -15,10 +15,6 @@ texture:
   social_links:
     github:  thelehhman
 
-header_pages:
-  - about.md
-
-
 plugins:
   - jekyll-seo-tag
-#  - jekyll-feed
+  - jekyll-feed
