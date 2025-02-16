@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "Course Info"
-description: An example post which shows code rendering.
+description: Information about our course
 date:   2025-02-16
+excerpt: With the growing deployment of AI systems in real-world applications, ensuring that these systems are trustworthy, i.e.,   secure, robust, interpretable, privacy-preserving, fair, and protected by intellectual property rights, has become more important than ever. Trustworthy AI is an emerging branch of AI that aims to address the trustworthiness issues of existing AI algorithms and models and ultimately achieve responsible and trustworthy artificial intelligence (AI). This course systematically introduces the main research directions of trustworthy AI and the existing works in each direction. 
 ---
+
 <div style="margin-bottom: 60px;">
     <p></p>
     <h2 style="font-family: 'Verdana', sans-serif; font-size: 24px; border: none;">Course Info</h2>
