@@ -18,9 +18,13 @@ texture:
 
   social_links:
     github:  thelehhman
- 
-header_pages:
-  - about.md
+ navigation:
+  - title: Course Info
+    url: "/course"
+  - title: Student Project
+    url: "/project"
+# header_pages:
+#   - about.md
 
 
 plugins:
