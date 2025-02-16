@@ -13,7 +13,9 @@ texture:
   showPicker: false
 
   social_links:
-    github:  thelehhman
+    github:  xingjunm
+    google:  https://scholar.google.com.au/citations?user=XQViiyYAAAAJ&hl=en
+    e-mail:  xingjunma@fudan.edu.cn
 
 plugins:
   - jekyll-seo-tag
