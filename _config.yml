@@ -8,8 +8,6 @@ permalink: /posts/:title/
 
 texture:
   title: AIS631005 Trustworthy LM
-  tagline: FDU.FVL.Xingjun MA
-  date_format: "%b %-d, %Y"
   style: black
   showNav: true
   showPicker: false
