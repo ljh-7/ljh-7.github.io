@@ -422,7 +422,16 @@ table {
     border-spacing: 0;
 }
 
-td,
+td
+{
+    font-family: 'Garamond', serif;
+    font-size: 16px;
+    font-weight: normal;
+}
+
 th {
     padding: 0;
+    font-family: 'Verdana', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
 }
