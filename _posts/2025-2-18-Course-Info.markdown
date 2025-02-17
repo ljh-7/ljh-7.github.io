@@ -18,7 +18,7 @@ excerpt: With the growing deployment of AI systems in real-world applications, e
 </div>
 <div style="margin-bottom: 60px;">
     <h2 style="font-family: 'Verdana', sans-serif; font-size: 24px; border: none;">Course Content & Schedule</h2>
-    <table>
+    <table border="1">
       <tr>
         <th>Teaching weeks</th>
         <th>Slides</th>
@@ -138,7 +138,7 @@ excerpt: With the growing deployment of AI systems in real-world applications, e
 <div style="margin-bottom: 60px;">    
     <h2 style="font-family: 'Verdana', sans-serif; font-size: 24px; border: none;">Course Assessment & Grading</h2>
     <p style="font-family: 'Garamond', serif; font-size: 17px;"><b>The course assessment standard will involve attendance, assignment(s), course paper and other(s).</b></p>
-    <table>
+    <table border="1">
         <tr>
             <th>Assessment Criteria</th>
             <th>Percentage</th>
